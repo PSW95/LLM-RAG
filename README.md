@@ -6,6 +6,4 @@ Built using:
 3.PDF Knowledge Base
 4.HuggingFace Transformers (Lightweight LLM)
 5.Streamlit (Web Interface)
-<p align="center">
-  <img src="screenshot.png" width="700">
-</p>
+
