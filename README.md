@@ -6,7 +6,7 @@ Built using:
 3.PDF Knowledge Base
 4.HuggingFace Transformers (Lightweight LLM)
 5.Streamlit (Web Interface)
-![App Screenshot]([(https://github.com/PSW95/LLM-RAG/blob/c69e26c6f989af007961014563c9b79ced9150ff/CPR%20P%201.png))]
+![App Screenshot](https://github.com/PSW95/LLM-RAG/blob/c69e26c6f989af007961014563c9b79ced9150ff/CPR%20P%201.png)
 
 <!--  -->
 
