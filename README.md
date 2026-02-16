@@ -7,6 +7,11 @@ Built using:
 4.HuggingFace Transformers (Lightweight LLM)
 5.Streamlit (Web Interface)
 ![App Screenshot](https://github.com/PSW95/LLM-RAG/blob/c69e26c6f989af007961014563c9b79ced9150ff/CPR%20P%201.png)
+![App Screenshot](https://github.com/PSW95/LLM-RAG/blob/44f0d78256af552b1d6028b8e2690866b4d7a0df/CPR%20P%202.png)
+![App Screenshot](https://github.com/PSW95/LLM-RAG/blob/44f0d78256af552b1d6028b8e2690866b4d7a0df/CPR%20P%203.png)
+
+
+
 
 <!--  -->
 
